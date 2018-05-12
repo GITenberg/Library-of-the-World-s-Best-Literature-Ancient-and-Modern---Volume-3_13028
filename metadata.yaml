@@ -1,5 +1,8 @@
 _repo: Library-of-the-World-s-Best-Literature-Ancient-and-Modern---Volume-3_13028
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   editors:
   - agent_name: Runkle, Lucia Isabella Gilbert
@@ -28,6 +31,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1421
     wikipedia: http://en.wikipedia.org/wiki/Hamilton_Wright_Mabie
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13028#Library-of-the-World-s-Best-Literature-Ancient-and-Modern---Volume-3
 gutenberg_issued: '2004-07-26'
 gutenberg_type: Text
 identifiers:
